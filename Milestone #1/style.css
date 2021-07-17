@@ -1,0 +1,17 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(8.png);
+    }
+        
+#clock {
+    background-image: url(1.png);
+	font-size: 125px;
+	font-family: cursive;
+	width: 900px;
+	margin: 200px;
+	text-align: center;
+	border: 15px double black;
+	border-radius: 60px;
+}
